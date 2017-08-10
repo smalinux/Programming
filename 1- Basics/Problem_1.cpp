@@ -4,7 +4,7 @@
 * = Either number is divisible by 4
 * = Or divisible by both 6 and 10
 *
-* @link https://youtu.be/-sRDC4KBA9o?list=PLPt2dINI2MIZPFq6HyUB1Uhxdh1UDnZMS
+* @link https://youtu.be/-sRDC4KBA9o?t=20s
 */
 #include <iostream>
 
