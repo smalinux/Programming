@@ -26,7 +26,7 @@ int main() {
 		}
 	}
 
-	cout<< "First Max Num: " << iFstMax <<"\nSecond Nax Num: " << iSndMax;
+	cout<< "First Max Num: " << iFstMax <<"\nSecond Max Num: " << iSndMax;
 
 	return 0;
 }
