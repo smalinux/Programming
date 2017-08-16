@@ -19,9 +19,8 @@ int main() {
 
 	for(int i=2; i < AS; i++) {
 		if( arr[i] > iFstMax ) {
-			int x = iFstMax;
+			iSndMax = iFstMax;
 			iFstMax = arr[i];
-			iSndMax = x;
 		} else if ( arr[i] < iFstMax && arr[i] > iSndMax) {
 			iSndMax = arr[i];
 		}
