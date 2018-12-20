@@ -1,0 +1,8 @@
+* 7awel tfham el falsafa elly wara col concept fe el c++
+
+Mutator method : https://en.wikipedia.org/wiki/Mutator_method
+Accessor Methods
+encapsulation && information hiding
+friend functions
+operator functions
+Homogeneous and Heterogeneous Data Structures
